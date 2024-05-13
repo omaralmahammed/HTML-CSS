@@ -1,0 +1,17 @@
+.text1 {
+    color: chocolate;
+}
+
+.back {
+    background-image: url(image.jpeg);
+}
+
+/* I turned the span to inlin-block to let set a margin in top and bottom */
+span {
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 4px 4px rgb(102, 97, 97);
+}

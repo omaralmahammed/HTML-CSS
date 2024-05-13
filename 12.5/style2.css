@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+#back {
+    background-color: bisque;
+}
+
+#brown {
+    background-color: brown;
+}
+
+#yellow {
+    background-color: yellowgreen;
+}
+
+.one,
+.three {
+    border: 2px solid black;
+}
+
+.two {
+    border: 2px dashed black;
+}
+
+.two p {
+    border: 3px dashed red;
+    margin: 10px;
+}
+
+.three {
+    color: blueviolet;
+}
+
+.one,
+.two,
+.three {
+    background-color: white;
+    width: 80%;
+    margin: 10px;
+}
+
+
+
+
+
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+pre {
+    font-family: sans-serif;
+    font-weight: bold;
+}
