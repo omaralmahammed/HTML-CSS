@@ -1,0 +1,44 @@
+/** @format */
+
+.flex-container {
+  border: 9px solid burlywood;
+  display: flex;
+  flex-direction: row;
+}
+
+p {
+  text-align: center;
+  font-size: 45px;
+  color: white;
+  margin: 0px;
+  height: 500px;
+  width: 100%;
+}
+
+.green {
+  background-color: green;
+}
+.yellow {
+  background-color: yellow;
+}
+.purple {
+  background-color: purple;
+}
+.gray {
+  background-color: gray;
+}
+.blue {
+  background-color: blue;
+}
+.orange {
+  background-color: orange;
+}
+.pink {
+  background-color: pink;
+}
+.red {
+  background-color: red;
+}
+.brown {
+  background-color: brown;
+}

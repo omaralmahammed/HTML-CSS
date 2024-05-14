@@ -1,0 +1,29 @@
+/** @format */
+
+body {
+    margin:  auto;
+}
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.part1, .part2 {
+  color: white;
+  font-size: 45px;
+}
+.part1 {
+  background-color: orange;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+}
+
+.part2 {
+  background-color: blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+}

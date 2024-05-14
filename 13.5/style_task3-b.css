@@ -1,0 +1,31 @@
+/** @format */
+
+header {
+  position: relative;
+  border: 2px dotted black;
+  width: fit-content;
+}
+
+div {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.two {
+  background-color: green;
+}
+
+#relative {
+  position: relative;
+  left: 10px;
+  top: 15px;
+}
+
+#absolute {
+  position: absolute;
+  top: 20px;
+  left: 20px; 
+}
+
